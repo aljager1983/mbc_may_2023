@@ -1,0 +1,21 @@
+{
+    "canisters": {
+      
+      "homeworkDiary" : {
+        "main": "src/d2/main.mo",
+        "type": "motoko"
+      },
+      "studentWall" : {
+        "main": "src/d3/main.mo",
+        "type": "motoko"
+      },
+      "MotoCoin" : {
+        "main": "src/d4/main.mo",
+        "type": "motoko"
+      }, 
+      "theVerifier": {
+        "main": "src/d5/main.mo",
+        "type": "motoko"
+      }
+    }
+  }
